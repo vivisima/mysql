@@ -53,10 +53,10 @@ Endpoints:
   - mysql
 
 #Source-Url: git://github.com/qiushui/mysql.git
-Source-Url: https://github.com/qiushui/mysql.git
+#Source-Url: https://github.com/qiushui/mysql.git
 #Source-Url: https://github.com/qiushui/mysql/raw/master/mysql.zip
 #Source-Url: https://github.com/qiushui/mysql/raw/master/mysql.tar.gz
 #Source-Url: https://github.com/qiushui/mysql/raw/master/mysql.tar
 #Source-Url: https://github.com/qiushui/mysql/raw/master/mysql.tar
 #Source-Md5: d6af2e424eb4b330f54c51c99c371058
-#Source-Url: file:///root/php/
+Source-Url: file:///root/mysql/
