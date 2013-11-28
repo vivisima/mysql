@@ -1,5 +1,5 @@
 ---
-Name: mysql
+Name: m_ysql
 Cartridge-Short-Name: MYSQL
 Architecture: noarch
 Display-Name: MySQL 5.1
@@ -9,7 +9,7 @@ Versions:
 - '5.1'
 Cartridge-Version: 0.2.5
 Compatible-Versions: []
-Cartridge-Vendor: qiushui
+Cartridge-Vendor: 22_qiushui
 License: GPL
 Vendor: Oracle
 Categories:
