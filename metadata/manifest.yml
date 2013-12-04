@@ -1,6 +1,5 @@
 ---
 Name: m-ysql
-abcde
 Cartridge-Short-Name: MYSQL
 Architecture: noarch
 Display-Name: MySQL 5.1
