@@ -52,7 +52,7 @@ Endpoints:
   Protocols:
   - mysql
 
-Source-Url: git://github.com/qiushui/mysql.git
+Source-Url: https://github.com/vivisima/mysql.git
 #Source-Url: https://github.com/qiushui/mysql.git
 #Source-Url: https://github.com/qiushui/mysql/raw/master/mysql.zip
 #Source-Url: https://github.com/qiushui/mysql/raw/master/mysql.tar.gz
